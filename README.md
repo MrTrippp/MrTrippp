@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTrippp
-- 👀 I’m interested in web development,ethical hacking,data science
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in web development,ethical hacking,data science, data structures and algorithms.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at anirudhp1210@gmail.com.
 
